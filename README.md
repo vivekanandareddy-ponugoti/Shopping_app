@@ -1,2 +1,2 @@
-# Shopping_cart
+# Shopping_app
 Shopping cart app using java 
